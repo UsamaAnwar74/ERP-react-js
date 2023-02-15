@@ -1,0 +1,44 @@
+.header{
+    background: #901C42;
+}
+
+.logoimg  {
+    background: #901C42;
+    padding-left: 1rem;
+}
+
+.login{
+    color: white !important;
+    margin-right: 1rem;
+    
+
+}
+
+.login a {
+
+    text-decoration: none;
+    color: white;
+}
+
+
+
+hr.new1 {
+    border: 1px solid white;
+  }
+
+
+.headertext{
+    text-align: center;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.headertext span {
+    font-size: 3rem;
+}
+
+.btnsignup{
+    background: #901C42;
+    color: white;
+    border:  1px solid white;
+}

@@ -1,0 +1,28 @@
+.viewCard {
+  height: 150px;
+  width: 240px;
+  background-color: white;
+  margin: 20px 0px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 20px 2px #00000042;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.top {
+  height: 70%;
+  padding: 20px;
+  border: 1px solid #00000042;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.bottom {
+  text-align: center;
+  background-color: var(--purple-color);
+  color: white;
+  height: 30%;
+  padding: 10px;
+  background-color: #901c42;
+  border-radius: 0px 0px 10px 10px;
+  text-decoration: none;
+}

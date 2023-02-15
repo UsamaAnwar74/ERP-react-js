@@ -1,0 +1,11 @@
+.details {
+    padding:20px 0;
+}
+
+.details h5 {
+    font-size: 14px;
+}
+
+.table td {
+    max-width: 300px;
+}

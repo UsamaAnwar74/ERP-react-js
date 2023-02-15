@@ -1,0 +1,15 @@
+.taskForm {
+  z-index: 999;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  height: 600px;
+  width: 420px;
+  border-radius: 8px;
+}
+
+
+.top-text{
+    
+}

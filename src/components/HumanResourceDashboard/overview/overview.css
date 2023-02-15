@@ -1,0 +1,6 @@
+.body {
+  padding: 0px 60px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  column-gap: 20px;
+}

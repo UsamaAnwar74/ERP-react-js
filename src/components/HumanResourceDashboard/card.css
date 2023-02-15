@@ -1,0 +1,25 @@
+.card {
+
+    display: grid !important;
+    grid-template-columns:  1fr 1fr 1fr;
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    
+}
+
+.card1{
+    border-radius: 1px solid grey;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.ccorn{
+    background: #901C42;
+    text-align: center;
+    color: white;
+    /* margin: 2rem; */
+}

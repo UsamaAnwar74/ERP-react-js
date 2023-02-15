@@ -1,0 +1,12 @@
+.EmployeeInfo{
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: scroll !important;
+    /* overflow: auto; */
+}
+
+
+.detailinfo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
